@@ -1,2 +1,2 @@
 # Spiderman
-Just like a unmanaged web..
+Just like an unmanaged web..
